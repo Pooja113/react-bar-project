@@ -2,6 +2,12 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+##About Project
+This project is related to the Expenses bar change during a period of time.
+In the Header there is a form.
+There are cards where the expense title, amount and date is present
+
 ## Available Scripts
 
 In the project directory, you can run:

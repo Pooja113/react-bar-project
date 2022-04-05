@@ -3,10 +3,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-##About Project
-This project is related to the Expenses bar change during a period of time.
-In the Header there is a form.
-There are cards where the expense title, amount and date is present
+## About Project
+This project is related to the Expenses bar change during a period of time.<br>
+Header contains Form to add the expenses to the EXPENSE LIST. It has a very cool funtionality to open and close the form.<br>
+Next we have a Year Filter, which shows EXPENSE LIST according to the selected year.<br>
+Then we can see a chart bar which shows the expenses in all the months in a BAR CHART FORM.<br>
+At last, we have the Expense List which shows the list of all the expenses according to the filter.<br><br>
+
+Please take a look at the video to get an overview:
+https://www.loom.com/share/dcca6e02c7f647c5aa3d774f4b2f9490
 
 ## Available Scripts
 

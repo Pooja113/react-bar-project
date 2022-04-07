@@ -11,5 +11,5 @@ Then we can see a chart bar which shows the expenses in all the months in a BAR 
 At last, we have the Expense List which shows the list of all the expenses according to the filter.<br>
 
 Please take a look at the video to get an overview:
-https://www.loom.com/share/dcca6e02c7f647c5aa3d774f4b2f9490
+https://www.youtube.com/watch?v=JOHugOeX8L0&t=2s
 
